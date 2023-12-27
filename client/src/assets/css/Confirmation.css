@@ -1,0 +1,20 @@
+.confirmationView {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 1em auto;
+    padding-left: 20px;
+}
+
+ul {
+    text-align: left;
+}
+
+/*ul > li {*/
+/*    margin: 1em;*/
+/*}*/
+
+.confirmationView ul li {
+    display: block;
+    margin: 0.1em 0;
+}

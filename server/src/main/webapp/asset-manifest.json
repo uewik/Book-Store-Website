@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2ff889cf.css",
+    "main.js": "./static/js/main.04c39f9b.js",
+    "static/js/787.d5fa4d18.chunk.js": "./static/js/787.d5fa4d18.chunk.js",
+    "static/media/The 1619 Project.jpg": "./static/media/The 1619 Project.303582c02594f940a47f.jpg",
+    "static/media/The Manager's Path.jpg": "./static/media/The Manager's Path.b3af78aa41d11fd2ba94.jpg",
+    "static/media/The Art of War.jpg": "./static/media/The Art of War.fef55d98aa018cd89b03.jpg",
+    "static/media/Made for Living.jpg": "./static/media/Made for Living.1930e166776df3c4bec1.jpg",
+    "static/media/The Housemaid.jpg": "./static/media/The Housemaid.e7bb8b1586051430b5f4.jpg",
+    "static/media/Never Lie.jpg": "./static/media/Never Lie.1a57f03864a6820f6020.jpg",
+    "static/media/The Craft of Research.jpg": "./static/media/The Craft of Research.c08d745eaf7526bfd72b.jpg",
+    "static/media/A Little Life.jpg": "./static/media/A Little Life.18133fc3568bb44993b1.jpg",
+    "static/media/Elon Musk.jpg": "./static/media/Elon Musk.a7e70e5e0fa47b596384.jpg",
+    "static/media/Enough.jpg": "./static/media/Enough.c5bc9e423ee95acde237.jpg",
+    "static/media/Braiding Sweetgrass.jpg": "./static/media/Braiding Sweetgrass.e3fa317e68d03b3b372a.jpg",
+    "static/media/Ways of Seeing.jpg": "./static/media/Ways of Seeing.6e104ea7242ec1feed6c.jpg",
+    "static/media/Build.jpg": "./static/media/Build.02ef15c316d5f16ab0c7.jpg",
+    "static/media/Poverty, By America.jpg": "./static/media/Poverty, By America.172148823cac984f22a6.jpg",
+    "static/media/Chip War.jpg": "./static/media/Chip War.47c8f3ae8a189c0ba93d.jpg",
+    "static/media/Chanel.jpg": "./static/media/Chanel.fa30469d83b699ca1901.jpg",
+    "index.html": "./index.html",
+    "main.2ff889cf.css.map": "./static/css/main.2ff889cf.css.map",
+    "main.04c39f9b.js.map": "./static/js/main.04c39f9b.js.map",
+    "787.d5fa4d18.chunk.js.map": "./static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff889cf.css",
+    "static/js/main.04c39f9b.js"
+  ]
+}
